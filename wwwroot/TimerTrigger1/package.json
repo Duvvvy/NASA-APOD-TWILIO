@@ -1,0 +1,16 @@
+{
+  "name": "TimerTrigger1",
+  "version": "1.0.0",
+  "description": "Receive SMS with Azure Functions and Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Twilio",
+  "license": "MIT",
+  "dependencies": {
+    "nasa-sdk": "^1.1.10",
+    "superagent": "^3.5.2",
+    "twilio": "^3.32.0"
+  }
+}
